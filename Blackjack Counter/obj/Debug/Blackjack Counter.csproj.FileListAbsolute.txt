@@ -1,0 +1,15 @@
+C:\Users\Ajai\Projects\C#\Blackjack Counter\Blackjack Counter\bin\Debug\Blackjack Counter.exe.config
+C:\Users\Ajai\Projects\C#\Blackjack Counter\Blackjack Counter\bin\Debug\Blackjack Counter.exe
+C:\Users\Ajai\Projects\C#\Blackjack Counter\Blackjack Counter\bin\Debug\Blackjack Counter.pdb
+C:\Users\Ajai\Projects\C#\Blackjack Counter\Blackjack Counter\obj\Debug\Blackjack Counter.csprojResolveAssemblyReference.cache
+C:\Users\Ajai\Projects\C#\Blackjack Counter\Blackjack Counter\obj\Debug\MainWindow.g.cs
+C:\Users\Ajai\Projects\C#\Blackjack Counter\Blackjack Counter\obj\Debug\App.g.cs
+C:\Users\Ajai\Projects\C#\Blackjack Counter\Blackjack Counter\obj\Debug\Blackjack Counter_MarkupCompile.cache
+C:\Users\Ajai\Projects\C#\Blackjack Counter\Blackjack Counter\obj\Debug\Blackjack Counter_MarkupCompile.lref
+C:\Users\Ajai\Projects\C#\Blackjack Counter\Blackjack Counter\obj\Debug\MainWindow.baml
+C:\Users\Ajai\Projects\C#\Blackjack Counter\Blackjack Counter\obj\Debug\Blackjack Counter.g.resources
+C:\Users\Ajai\Projects\C#\Blackjack Counter\Blackjack Counter\obj\Debug\Blackjack_Counter.Properties.Resources.resources
+C:\Users\Ajai\Projects\C#\Blackjack Counter\Blackjack Counter\obj\Debug\Blackjack Counter.csproj.GenerateResource.Cache
+C:\Users\Ajai\Projects\C#\Blackjack Counter\Blackjack Counter\obj\Debug\Blackjack Counter.csproj.CoreCompileInputs.cache
+C:\Users\Ajai\Projects\C#\Blackjack Counter\Blackjack Counter\obj\Debug\Blackjack Counter.exe
+C:\Users\Ajai\Projects\C#\Blackjack Counter\Blackjack Counter\obj\Debug\Blackjack Counter.pdb
